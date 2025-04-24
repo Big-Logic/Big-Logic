@@ -1,5 +1,7 @@
 # Hi there, I'm Alfred Ngwayah 👋
 
+... ** My developer friends call me Logic 😊 **
+
 Welcome to my GitHub! I'm a junior-level software engineer passionate about how software can change the world.
 I love learning new skills and building cool things.
 
@@ -10,9 +12,7 @@ I love learning new skills and building cool things.
 - 🔭 I’m currently working on: **Angweili School**
 - 🌱 I’m currently learning: **Frontend Engineering, Backend Engineering, Database Engineering, and Automation**
 - 👯 I’m looking to collaborate on: **new ideas that might change the world using software**
-- 💬 Ask me about: **[Topics you’re knowledgeable in]**
-- ⚡ Fun fact: **[Something fun or unique about you]**
-
+  
 ---
 
 ## 🛠️ Technologies & Tools
@@ -29,22 +29,6 @@ I love learning new skills and building cool things.
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-> _“Your favorite quote or personal motto here.”_
+> _“If our dreams are meant to come through, someday we will tell the story of how we started and where we came from.”_
 
 Thanks for visiting! 😊
