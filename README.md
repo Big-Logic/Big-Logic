@@ -1,6 +1,6 @@
 # Hi there, I'm Alfred Ngwayah 👋
 
-... ** My developer friends call me Logic 😊 **
+** My developer friends call me Logic 😊 **
 
 Welcome to my GitHub! I'm a junior-level software engineer passionate about how software can change the world.
 I love learning new skills and building cool things.
